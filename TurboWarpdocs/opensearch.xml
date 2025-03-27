@@ -4,7 +4,7 @@
   <ShortName>TurboWarp 文档</ShortName>
   <Description>Search TurboWarp 文档</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Url type="text/html" method="get" template="https://docs.turbowarp.org/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.turbowarp.org/opensearch.xml" />
-  <moz:SearchForm>https://docs.turbowarp.org/</moz:SearchForm>
+  <Url type="text/html" method="get" template="https://scratch.lcy-ys.top/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://scratch.lcy-ys.top/opensearch.xml" />
+  <moz:SearchForm>https://scratch.lcy-ys.top/</moz:SearchForm>
 </OpenSearchDescription>
